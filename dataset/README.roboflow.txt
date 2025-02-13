@@ -1,8 +1,8 @@
 
-football-players-detection - v8 2024-03-01 2:47pm
+football-players-detection - v12 2024-08-19 5:17pm
 ==============================
 
-This dataset was exported via roboflow.com on March 1, 2024 at 2:22 PM GMT
+This dataset was exported via roboflow.com on September 30, 2024 at 5:47 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,10 +17,11 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 255 images.
-Football-players-detection are annotated in YOLOv8 format.
+The dataset includes 372 images.
+Football-players-detection are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
+* Resize to 1280x1280 (Stretch)
 
 No image augmentation techniques were applied.
 
